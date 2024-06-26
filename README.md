@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Blogpost-platform
 >>>>>>> 8ba55eb97b3a258bca49e5c4d794c91389a6bec4
+
+
+![Screenshot 2024-06-26 191623](https://github.com/Akhil-Joshi/React-Blogpost-platform/assets/104183842/c9595d6e-4591-4fb6-b314-0ca10750682a)
+![Screenshot 2024-06-26 192256](https://github.com/Akhil-Joshi/React-Blogpost-platform/assets/104183842/a15d4196-4da1-45cc-8c71-81989c8cfdcf)
